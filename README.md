@@ -54,7 +54,7 @@ Welcome to my GitHub! I'm a **Software Engineer with 6+ years of experience**, s
 
 ## 🤝 Let's Connect
 
-- 💼 [LinkedIn](hhttps://www.linkedin.com/in/debdeep-dutta-9a2795185/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/debdeep-dutta-9a2795185/)  
 - 🌐 [Portfolio](https://yourportfolio.com)  
 - 📫 Email: deb925dutta@gmail.com
 
