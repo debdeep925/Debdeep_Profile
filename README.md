@@ -16,12 +16,29 @@ Welcome to my GitHub! I'm a **Software Engineer with 6+ years of experience**, s
 
 ## 🔧 Technical Highlights
 
-- 🧩 Built and maintained **modular, performance-optimized UIs** using **React.js + TypeScript**
-- 🚀 Developed **high-performance REST APIs** with **FastAPI and Python**
-- 📦 Designed and integrated with **cloud-native microservices** on **AWS**
-- 🔁 Practiced **CI/CD**, containerization with **Docker**, and deployment automation
-- 📅 Actively participated in **SAFe Agile ceremonies**: PI Planning, Backlog Refinement, ARTs
-- 🤝 Strong believer in **cross-functional collaboration** and **clean code principles**
+⚛️ Built dynamic, responsive, and scalable front-end apps using React.js + TypeScript, focusing on modular component design, performance optimization, and accessibility
+
+🧠 Created robust backends with Python and FastAPI, designing secure and efficient RESTful APIs to power modern web applications
+
+🚀 Led cloud deployments on AWS, utilizing services like EC2, S3, and Lambda, with emphasis on high availability and scalability
+
+🐳 Containerized applications using Docker, streamlining development workflows and simplifying deployment across environments
+
+🔁 Implemented CI/CD pipelines using tools like GitHub Actions, GitLab CI, and AWS CodePipeline for automated testing and deployment
+
+📡 Integrated third-party APIs and internal microservices to build seamless, real-time user experiences
+
+📊 Worked with MongoDB & PostgreSQL, designing schemas and queries for performance and scalability
+
+📆 Actively involved in SAFe Agile Release Trains (ARTs), participating in Program Increment (PI) Planning, Sprint Reviews, and Backlog Refinement
+
+🛠️ Proficient in Agile ceremonies: daily standups, sprint planning, retrospectives, and demos using Jira, Confluence, and Miro
+
+🔍 Passionate about code quality, unit testing, and performance tuning to deliver production-grade applications
+
+🤝 Strong believer in cross-functional teamwork, mentoring junior developers, and fostering a culture of collaboration
+
+🌍 Comfortable working with distributed teams and asynchronous communication in global agile environments
 
 ---
 
