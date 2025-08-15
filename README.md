@@ -6,10 +6,10 @@ Welcome to my GitHub! I'm a **Software Engineer with 6+ years of experience**, s
 
 ## 🧠 About Me
 
-- 🖥️ **Frontend:** React.js, TypeScript, HTML5, CSS3, Tailwind CSS  
-- 🐍 **Backend:** Python, FastAPI, RESTful API design  
+- 🖥️ **Frontend:** React.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS  
+- 🐍 **Backend:** Python, FastAPI, RESTful API design, ARAS PLM 
 - ☁️ **Cloud & DevOps:** AWS, Docker, CI/CD pipelines, API integrations  
-- 📦 **Databases:** MongoDB, PostgreSQL  
+- 📦 **Databases:** MongoDB, MySQL  
 - 🔄 **Agile & SAFe:** Agile Release Trains (ARTs), PI Planning, Scrum, Kanban  
 
 ---
@@ -54,9 +54,9 @@ Welcome to my GitHub! I'm a **Software Engineer with 6+ years of experience**, s
 
 ## 🤝 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link/)  
+- 💼 [LinkedIn](hhttps://www.linkedin.com/in/debdeep-dutta-9a2795185/)  
 - 🌐 [Portfolio](https://yourportfolio.com)  
-- 📫 Email: your.email@example.com  
+- 📫 Email: deb925dutta@gmail.com
 
 ---
 
